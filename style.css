@@ -1,0 +1,564 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.A{
+    height: 850px;
+    width: 100%;
+    /* border: 3px solid black; */
+}
+.A video{
+    height: 850px;
+    width: 100%;   
+}
+.Aa{
+    height: 850px;
+    width: 100%;
+    background-color:gold;
+    opacity: 0.5;
+    /* border: 3px solid black; */
+    position: absolute;
+    top: 0px;
+}
+.dp{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border: 15px solid white;
+    background: url(web-developer.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+.B{
+    height: 70px;
+    width: 100%;
+    /* border: 3px solid black; */
+    position: absolute;
+    top: 0px;
+}
+.logo{
+    height: 70px;
+    width: 130px;
+    background: url(logo.png);
+    /* border: 3px solid black; */
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 60px;
+    float: left;
+}
+.call{
+    height: 70px;
+    width: 250px;
+    /* border: 3px solid black; */
+    margin-left: 1150px;
+}
+.call i{
+    margin-top: 20px;
+    float: left;
+    font-size: 22px;
+
+}
+.call p{
+    margin-top:20px;
+    margin-left: 10px;
+    margin-right: 25px;
+    float: left;
+    font-size: 20px;
+}
+.C{
+    height: 750px;
+    width: 700px;
+    /* border: 5px solid black; */
+    position: absolute;
+    margin-left: 100px;
+    top: 100px;
+    line-height: 80px;
+}
+.a1{
+    font-size: 40px;
+    margin-top: 150px;
+}
+.a2{
+    font-size: 80px;
+}
+.a3{
+    font-size: 25px;
+}
+.C button{
+    height: 40px;
+    width: 125px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+.C i{
+    margin-top: 250px;
+    margin-left: 650px;
+}
+.D{
+    height: 5000px;
+    width: 100%;   
+}
+.D mark{
+    padding:5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    /* margin-left: 715px;
+    margin-top: 50px; */
+    position: absolute;
+    top: 900px;
+    left: 715px;
+}  
+
+
+
+
+
+.first{
+    height: 80vh;
+    width: 90%;
+    /* border: 1px solid black; */
+    margin-left: 5%;
+}
+.first .a{
+    height: 100px;
+    width: 100%;
+    margin-top: 70px;
+    /* border: 1px solid black; */
+}
+.first .a mark{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 640px;
+    line-height: 50px;
+    background-color: gold;
+}
+.first .a h1{
+    margin-left: 555px;
+    font-size: 40px;
+}
+.first .b{
+    height: 400px;
+    width: 60%;
+    float: left;
+    /* border: 1px solid black; */
+}
+.first .b h1{
+    margin-top: 75px;
+}
+.first .b p{
+    font-size: 25px;
+    margin-top: 20px;
+    word-spacing: 5px;
+}
+.first .c{
+    height: 400px;
+    width: 40%;
+    float: right;
+    /* border: 1px solid black; */
+}
+.first .c .circle{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 210px;
+    float: left;
+    /* border: 1px solid black; */
+    background-color: gold;
+}
+.first .c .circle h1{
+    font-size: 175px;
+    margin-left: -20px;
+    margin-top: -40px;
+    color: gray;
+}
+.first .c h2{
+    margin-left: 110px;
+    margin-top: 250px;
+    font-size: 40px;
+}
+.first .d{
+    height: 70px;
+    width: 25%;
+    float: left;
+    /* border: 1px solid black; */
+}
+.first .e{
+    height: 70px;
+    width: 25%;
+    float: left;
+    /* border: 1px solid black; */
+}
+.first .f{
+    height: 70px;
+    width: 25%;
+    float: left;
+    /* border: 1px solid black; */
+}
+.first .g{
+    height: 70px;
+    width: 25%;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+
+
+
+
+.second{
+    height: 100vh;
+    width: 100%;
+    background-color:whitesmoke;
+    border: 1px solid whitesmoke;
+}
+.second .aa{
+    height: 760px;
+    width: 90%;
+    margin-top: 90px;
+    margin-left: 5%;
+    border: 1px solid whitesmoke;
+}
+.second .aa .a{
+    height: 15%;
+    width: 100%;
+    border: 1px solid whitesmoke;
+}
+.second .aa .a mark{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 640px;
+    line-height: 50px;
+    background-color: gold;    
+}
+.second .aa .a h1{
+    margin-left: 410px;
+    font-size: 40px;
+}
+.second .aa .b{
+    height: 40%;
+    width: 33%;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+.second .aa .b i{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.second .aa .b h2{
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.second .aa .b h3{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+.second .aa .c{
+    height: 40%;
+    width: 34%;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+.second .aa .c i{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.second .aa .c h2{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.second .aa .c h3{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+.second .aa .d{
+    height: 40%;
+    width: 33%;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+.second .aa .d i{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.second .aa .d h2{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.second .aa .d h3{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+.second .aa .e{
+    height: 40%;
+    width: 33%;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+.second .aa .e i{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.second .aa .e h2{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.second .aa .e h3{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+.second .aa .f{
+    height: 40%;
+    width: 34%;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+.second .aa .f i{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.second .aa .f h2{
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.second .aa .f h3{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+.second .aa .g{
+    height: 40%;
+    width: 33%;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+.second .aa .g i{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.second .aa .g h2{
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.second .aa .g h3{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+.third{
+    height: auto;
+    width: 100%;
+    /* border: 1px solid black; */
+}
+.third .bb{
+    height: 110vh;
+    width: 90%;
+    /* border: 1px solid black; */
+    margin-left: 5%;
+}
+.third .bb .a{
+    /* height: 200px; */
+    width: 100%;
+    margin-top: 100px;
+    /* border: 1px solid black; */
+}
+.third .bb .a mark{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 640px;
+    line-height: 50px;
+    background-color: gold; 
+}
+.third .bb .a h1{
+    margin-left: 450px;
+    font-size: 40px; 
+}
+.third .bb .a h2{
+    font-size: 30px;
+    float: left;
+    margin-top: 70px;
+    text-decoration: underline;
+
+}
+.third .bb .a h3{
+    font-size: 30px;
+    float: left;
+    margin-top: 70px;
+    margin-left: 500px;
+    text-decoration: underline;
+}
+.third .bb .b{
+    width: 50%;
+    /* height: 510px; */
+    border-left: 3px solid gold;
+    float: left;
+    margin-top: 50px;
+}
+.third .bb .b .z{
+    height: 160px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
+}
+.third .bb .b .z h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.third .bb .b .z h4{
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+}
+.third .bb .b .y{
+    height: 160px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
+}
+.third .bb .b .y h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.third .bb .b .y h4{
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+}
+.third .bb .b .x{
+    height: 160px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
+}
+.third .bb .b .x h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.third .bb .b .x h4{
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+}
+.third .bb .c{
+    width: 50%;
+    /* height: 510px; */
+    border-left: 3px solid gold;
+    float: right;
+    margin-top: 50px;
+}
+.third .bb .c .z{
+    height: 160px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
+}
+.third .bb .c .z h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.third .bb .c .z h4{
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+}
+.third .bb .c .y{
+    height: 160px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
+}
+.third .bb .c .y h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.third .bb .c .y h4{
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+}
+.third .bb .c .x{
+    height: 160px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
+}
+.third .bb .c .x h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.third .bb .c .x h4{
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+}
+/* .third .d{
+    height: 500px;
+    width: 100%;
+    border: 5px solid black;
+    float: left;
+} */
+.eighth{
+    /* border: 1px solid  black; */
+    background-color: darkslategrey;
+    height: 220px;
+    width: 100%;
+}
+.eighth a{
+    
+    text-decoration: none;
+    line-height: 50px;
+    font-size: 25px;
+}
+.a6{
+    /* border: 1px solid black; */
+    background-color: #ffd700;
+    float: left;
+    text-align: right;
+    height: 100%;
+    width: 33.33%;
+}
+.b6{
+    /* border: 1px solid black ; */
+    background-color: #ffd700;
+    float: left;
+    text-align: center;
+    height: 100%;
+    width: 33.33%;
+}
+.c6{
+    /* border: 1px solid black; */
+    background-color: #ffd700;
+    float: left;
+    text-align: left;
+    height: 100%;
+    width: 33.33%;
+}
